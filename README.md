@@ -10,6 +10,8 @@
 
 ## 前置準備
 
+將"auto_process.py"放置**"刘悦的技术博客(Qwen-Edit-2511-rapid-GGUF)"** 目錄
+
 ### 1. 啟動 ComfyUI 服務
 
 **重要：必須先啟動 ComfyUI 服務，等待完全啟動後才能執行批量處理腳本。**
