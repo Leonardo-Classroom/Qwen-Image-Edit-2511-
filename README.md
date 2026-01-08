@@ -10,7 +10,7 @@
 
 ## 前置準備
 
-將"auto_process.py"放置**"刘悦的技术博客(Qwen-Edit-2511-rapid-GGUF)"** 目錄
+將"auto_process.py"放置到"刘悦的技术博客(Qwen-Edit-2511-rapid-GGUF)"的專案目錄
 
 ### 1. 啟動 ComfyUI 服務
 
